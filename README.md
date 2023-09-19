@@ -12,3 +12,10 @@ to create a message generator that outputs a random motivational quote to the us
 
 ## Project Javascript Flow
 
+## Project Timeline
+
+    1. Task 1
+    2. Task 2
+    3. Task 3
+
+    etc.
