@@ -1,4 +1,4 @@
-# My-Message-Generator
+# My Message Generator
 
 ## Planning My Project
 
@@ -15,8 +15,14 @@ to create a message generator that outputs a random motivational quote to the us
 
 ### Project Timeline
 
-1. Task 1:  Create 3 different array databases holding strings of words to be used in the generated motivational quotes.
-2. Task 2:  
-3. Task 3:
+Task 1:     Create random number generator
 
-    etc.
+Task 2:     Create an object with 3 separate arrays
+
+Task 3:     Create a 'motivation' array to store motivation
+
+Task 4:     Create a loop to iterate over the object
+
+Task 5:     Create switch condition to customize motivational messages being added to array
+
+Task 6:     
